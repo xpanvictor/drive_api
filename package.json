@@ -1,0 +1,24 @@
+{
+  "name": "drive_api",
+  "version": "1.0.0",
+  "description": "API to get location details and other info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xpanvictor/drive_api.git"
+  },
+  "keywords": [
+    "drive",
+    "api",
+    "uber"
+  ],
+  "author": "xpanvictor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xpanvictor/drive_api/issues"
+  },
+  "homepage": "https://github.com/xpanvictor/drive_api#readme"
+}
